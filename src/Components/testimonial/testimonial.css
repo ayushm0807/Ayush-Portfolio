@@ -1,6 +1,6 @@
 .container.testimonials__container{
     width: 55%;
-    height: 550px;
+    height: fit-content;
     padding-bottom: 4rem;
 }
 
@@ -48,6 +48,7 @@
 @media screen and (max-width: 600px) {
     .container.testimonials__container{
         width: var(--container-width-sm);   
+        height: fit-content;
     }
 
     .client__review{
