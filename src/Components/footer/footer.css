@@ -1,6 +1,6 @@
 footer{
     background: var(--color-primary);
-    background: hsl(210, 69%, 80%);
+    background-color: rgb(62, 165, 238, 0.8);;
     padding: 3rem 0;
     text-align: center;
     font-size: 0.9rem;
